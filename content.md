@@ -50,6 +50,14 @@ Go shines brightest for developing the following application types:
 - Go’s opinionated set of features has drawn both praise and criticism. Go is designed small and easy to understand, with certain features deliberately omitted. The result is that some features that are commonplace in other languages simply aren’t available in Go—on purpose.
 - Another potential downside to Go is the size of the generated binaries. Go binaries are statically compiled by default, meaning that everything needed at runtime is included in the binary image. This approach simplifies the build and deployment process, but at the cost of a simple “Hello, world!” weighing in at around 1.5MB on 64-bit Windows.
 
+## Naming Conventions for Golang Functions(Ahmet)
+- A name must begin with a letter, and can have any number of additional letters and numbers.
+- A function name cannot start with a number.
+- A function name cannot contain spaces.
+- If the functions with names that start with an uppercase letter will be exported to other packages. If the function name starts with a lowercase letter, it won't be   exported to other packages, but you can call this function within the same package.
+- If a name consists of multiple words, each word after the first should be capitalized like this: empName, EmpAddress, etc.
+- Function names are case-sensitive (car, Car and CAR are three different variables).
+
 #### References
 
 - https://go.dev
