@@ -65,6 +65,7 @@ Go shines brightest for developing the following application types:
 - https://nexttechnology.io/the-most-popular-programming-languages-in-2023/
 - https://www.infoworld.com/article/3198928/whats-the-go-programming-language-really-good-for.html
 - https://www.youtube.com/watch?v=etSN4X_fCnM&list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM
+- https://www.golangprograms.com/go-language/functions.html 
 
 ##### Informations about slide
 
